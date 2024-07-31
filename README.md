@@ -25,4 +25,8 @@ is human The purpose of this research is to use algorithms based on artificial i
 Similar to the digital medical image processing algorithm, the integrated wavelet transform algorithm
 with the artificial neural network and in the second speech the integration of the artificial neural network algorithm
 Genetic optimization is for early and timely diagnosis of breast cancer.
+https://drive.google.com/file/d/1PLKdnx03HkFOw4ayIl4AJW-XOsrSeW2p/view?usp=drivesdk   link real article
+https://drive.google.com/drive/folders/10WlgIJqbe30TfCf4lH7iJ3BOXJu0ADQ1   https://drive.google.com/file/d/15IKKbhIOab5J8iFGdFgIk5mXvDdwEz9N/view?usp=drivesdk   link source code and dataset
+https://docs.google.com/presentation/d/192N_bXp5WNfomgVPnypg0XEQMEURtE-i/edit?usp=drivesdk&ouid=116226917942013308500&rtpof=true&sd=true     https://drive.google.com/file/d/15IKKbhIOab5J8iFGdFgIk5mXvDdwEz9N/view?usp=drivesdk             link Presentation of the implementation and explanation of the article
+https://drive.google.com/file/d/1zYZDspTUHFiGbL_zkqRas6fr48uxf1ig/view?usp=drivesdk   link my article 
 
